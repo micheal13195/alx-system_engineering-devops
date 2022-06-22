@@ -1,1 +1,1 @@
-ALX SYSTEM ENGINEERING SHEEL BASICS
+a script that prints the absolute path name of the current working directory
