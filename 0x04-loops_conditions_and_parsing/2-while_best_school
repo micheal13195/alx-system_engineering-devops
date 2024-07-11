@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#this script echos "Best School" ten times on the console
+n=10
+while [ $n -gt 0 ]
+do
+	echo "Best School"
+	((n--))
+done
