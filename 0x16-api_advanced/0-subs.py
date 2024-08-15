@@ -14,4 +14,5 @@ def number_of_subscribers(subreddit):
                      headers={'User-Agent': '0x16-api_advanced:project:\
 v1.0.0 (by /u/efaeleng)'}).json()
     subs = r.get("data", {}).get("subscribers", 0)
+    return subs
 
