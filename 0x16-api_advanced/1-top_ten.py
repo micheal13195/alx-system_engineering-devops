@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """Contains top_ten function"""
-
 import requests
 
 
