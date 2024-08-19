@@ -39,11 +39,9 @@ frontend mickay-frontend
         bind *:80
         bind *:443 ssl crt /etc/letsencrypt/live/www.mickay.tech/mickay.pem
         mode http
-        http-request redirect scheme https code 301 unless { ssl_fc }
-        http-request set-header X_Forwarded-Proto http
         default_backend app
 
 backend app
         balance roundrobin
         server 93874-web-01 100.25.35.110:80 check
-        server 93874-web-02 54.165.189.20:80
+        server 93874-web-02 54.165.189.20:80 check
