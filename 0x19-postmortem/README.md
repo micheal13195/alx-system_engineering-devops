@@ -1,4 +1,4 @@
-/Users/michealaderibigbe/Downloads/debug\ image.jpg 
+
 
 Issue Summary
 
