@@ -1,3 +1,5 @@
+/Users/michealaderibigbe/Downloads/debug\ image.jpg 
+
 Issue Summary
 
 Duration of the Outage: The outage started at 03:30 AM and was resolved by 5:00 PM West African Time.
