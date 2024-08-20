@@ -1,3 +1,7 @@
+
+
+![debug image](https://github.com/user-attachments/assets/2edcdccf-4087-4caa-acd3-14002989b9fd)
+
 Issue Summary
 
 Duration of the Outage: The outage started at 03:30 AM and was resolved by 5:00 PM West African Time.
